@@ -1,2 +1,2 @@
 # python-challenge
-Unit 3 | Assignment - Py Me Up, Charlie
+1- Analysis of financial data using Python
